@@ -1,4 +1,5 @@
 Retail Demand Forecasting using Random Forest
+
 📌 Project Overview 
 
 Retail businesses need accurate demand forecasts to manage inventory efficiently. Incorrect predictions can lead to stockouts or excess inventory.
